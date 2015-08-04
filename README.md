@@ -1,4 +1,4 @@
-FlickrGrabber
+##FlickrGrabber
 
 FlickrGrabber is a program for getting many images from Flickr.com in a few seconds.
 
@@ -50,7 +50,7 @@ Furthermore, this program uses flickr.photo.search API, therefore a flickr API k
 
 ## Licence
 
-[FlickrGrabber]()
+[FlickrGrabber](https://github.com/ryoogata10/FlickrGrabber)
 
 ## Author
 
