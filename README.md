@@ -1,4 +1,4 @@
-##FlickrGrabber
+##Flickr Grabber (有村架純の画像500枚を2秒で保存できるプログラム)
 
 FlickrGrabber is a program for getting many images from Flickr.com in a few seconds.
 
