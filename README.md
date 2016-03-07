@@ -54,4 +54,4 @@ Furthermore, this program uses flickr.photo.search API, therefore a flickr API k
 
 ## Author
 
-©[ryo.ogata](https://github.com/ryoogata10). All Rights Reserved.
+©[ryo.ogata](https://github.com/ryogata10). All Rights Reserved.
